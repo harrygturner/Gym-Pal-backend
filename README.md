@@ -10,13 +10,16 @@ Ever been in the gym and had no idea what exercise to do next. Well this applica
 ## Tech/framework used
 
 <b>Built with</b>
-- [React.js](https://reactjs.org/)
-- CSS
+- [Rails](https://rubyonrails.org/)
 - [wger Workout Manager API](https://www.programmableweb.com/api/wger-workout-manager)
-- [ENV](https://github.com/motdotla/dotenv) 
+- [JWT](https://jwt.io/) 
 
-## Features
-What makes your project stand out?
+## Project Requirements
+
+- Use a Rails API backend with a separate React frontend that are created in two different Github repositories.
+- Have at least three resources on the backend and your application must have full CRUD actions for at least one resource.
+- Must have atleast two different client-side routes (i.e. use react-router). Ex: even if your whole app is mostly a single page app, have the form to signup be found at /signup
+- Optional: Your application can have authentication/authorization. You are welcome to use an auth template as discussed in class.
 
 ## Getting Started
 
@@ -47,30 +50,6 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Contribute
 
